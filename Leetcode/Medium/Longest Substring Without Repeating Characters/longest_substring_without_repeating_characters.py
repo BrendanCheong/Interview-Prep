@@ -41,8 +41,8 @@ class Solution:
                 right += 1
                 ans = max(ans, len(_set))
             else:
-                left += 1
                 _set.remove(s[left])
+                left += 1
         return ans
 
 
