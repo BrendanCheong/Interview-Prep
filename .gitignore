@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# C++
+*.out
+
+# Java
+*.class
+
+#pdf files
+*.pdf
+*.Identifier
