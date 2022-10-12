@@ -133,7 +133,3 @@ dmypy.json
 
 # Java
 *.class
-
-#pdf files
-*.pdf
-*.Identifier
